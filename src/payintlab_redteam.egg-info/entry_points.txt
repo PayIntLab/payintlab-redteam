@@ -1,2 +1,0 @@
-[console_scripts]
-payintlab-redteam = payintlab_redteam.cli:app

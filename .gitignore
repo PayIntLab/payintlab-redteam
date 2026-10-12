@@ -5,3 +5,4 @@ __pycache__/
 .ruff_cache/
 payintlab-reports/
 .DS_Store
+*.egg-info/
